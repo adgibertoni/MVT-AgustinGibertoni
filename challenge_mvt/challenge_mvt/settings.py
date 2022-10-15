@@ -56,7 +56,7 @@ TEMPLATES = [
     {
         'BACKEND': 'django.template.backends.django.DjangoTemplates',
         'DIRS': [
-            "C:/Users/Usuaario/Documents/coder_projects/first-challenge/challenge_mvt/templates/"
+            "C:/Users/agustin/Documents/coder_projects/MVT-AgustinGibertoni/challenge_mvt/templates/"
         ],
         'APP_DIRS': True,
         'OPTIONS': {
